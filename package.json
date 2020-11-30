@@ -20,7 +20,7 @@
     "jsonwebtoken": "^8.2.1",
     "jwk-to-pem": "^1.2.6",
     "lodash": "^4.17.5",
-    "mongoose": "^5.0.14",
+    "mongoose": "^5.10.18",
     "morgan": "~1.9.0",
     "serve-favicon": "~2.4.5",
     "sync-request": "^4.1.0",
